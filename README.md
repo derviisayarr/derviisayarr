@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Derviş Emre</h1>
-<h3 align="center">A ambitious junior developer from Türkiye</h3>
+<h3 align="center">An ambitious junior developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
