@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript**, **Flutter**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **JavaScript** , **Flutter**
 
 - 📫 How to reach me **derviisayarr@gmail.com**
 
