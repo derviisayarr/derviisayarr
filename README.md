@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derviş Emre</h1>
 <h3 align="center">An ambitious junior developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript**, **Flutter**
 
 - 💬 Ask me about **JavaScript**
 
