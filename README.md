@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript** , **Flutter**
 
-- 📫 How to reach me **derviisayarr@gmail.com**
+- 📫 How to reach me :  **derviisayarr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
